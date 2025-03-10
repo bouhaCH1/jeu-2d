@@ -1,0 +1,6 @@
+What_is_2+2? 2 4 6 2
+What_is_the_capital_of_France? Spain Germany France 3
+Is_the_Earth_flat? Yes No Maybe 2
+What_Color_Is_The_Sky? Green Yellow Blue 3
+KKKKKKKKKKK? K A C 1
+No_Pain_No? Gain Plane Money 1
